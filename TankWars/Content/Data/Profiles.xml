@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Generic="System.Collections.Generic" xmlns:Game="TankWars.Game">
+  <Asset Type="Generic:List[Game:Profile]">
+  </Asset>
+</XnaContent>

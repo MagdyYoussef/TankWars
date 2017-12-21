@@ -1,0 +1,12 @@
+C:\Users\ZooM\Documents\Visual Studio 2008\Projects\Tank Wars\Engine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZooM\Documents\Visual Studio 2008\Projects\Tank Wars\Engine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ZooM\Documents\Visual Studio 2008\Projects\Tank Wars\Engine\bin\x86\Debug\Engine.dll
+C:\Users\ZooM\Documents\Visual Studio 2008\Projects\Tank Wars\Engine\bin\x86\Debug\Engine.pdb
+C:\Users\ZooM\Documents\Visual Studio 2008\Projects\Tank Wars\Engine\obj\x86\Debug\Engine.dll
+C:\Users\ZooM\Documents\Visual Studio 2008\Projects\Tank Wars\Engine\obj\x86\Debug\Engine.pdb
+C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\Engine\bin\x86\Debug\Engine.dll
+C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\Engine\bin\x86\Debug\Engine.pdb
+C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\Engine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\Engine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\Engine\obj\x86\Debug\Engine.dll
+C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\Engine\obj\x86\Debug\Engine.pdb

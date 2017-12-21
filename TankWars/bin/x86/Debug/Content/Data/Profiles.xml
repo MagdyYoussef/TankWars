@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Generic="System.Collections.Generic" xmlns:Game="TankWars.Game">
+  <Asset Type="Generic:List[Game:Profile]">
+    <Item>
+      <Name>omar</Name>
+      <Coins>0</Coins>
+      <Level>1</Level>
+      <MachineGun>
+        <Value>10</Value>
+        <Price>10</Price>
+        <Level>10</Level>
+      </MachineGun>
+      <Canon Null="true" />
+      <Laser Null="true" />
+      <BodyArmor Null="true" />
+    </Item>
+  </Asset>
+</XnaContent>

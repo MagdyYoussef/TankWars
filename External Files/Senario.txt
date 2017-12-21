@@ -1,0 +1,65 @@
+1. User opens the game in 800x640 and a introScreen shows a video and a logo.
+2. Profile Loading Window
+	- up, down btns.
+	- list of items <delete>, <load>.
+	- <create> an item.
+3. open main menu window:
+	- Play
+	- change profile
+	- tankopedia
+	- credits
+	- exit
+4. in WorldMapScreen
+	- his weapons/status are loaded according to his rank.
+	- show World map: 10 story levels, 4 survival, 1 WorkShop.
+	- Choose the place you want to go.
+5. In GameScreen
+	- Text window opens if the story requires. <skip>
+	- Start the game	
+	- user moves with arrow keys and shoot with WASD and lay mines with space and select weapons with 123.
+	- ctrl for shield and shift for speed.
+	- game ends when he kills all the enemies or die.
+	- bonus is given if user finishes under certain time or finish undamaged.
+	- status are updated and returns to WorldMapScreen.
+6. In WorkshopScreen
+	- he views all his status and can upgrade them according to score.
+	- when user returns to map window his status are updated.
+7. weapons and status: two upgrades for every status ( 3 upgrade levels each )
+	- shield : upgrade total capacity and reload speed.
+	- body armor : upgrade total hit points and increase blocking percentage.
+	- nitros : upgrade total capacity and reload speed.
+	- mine : upgrade explosive damage and stopping time.
+	- machine gun: upgrade damage ( no other upgrade )
+	- canon : upgrade damage and ammo
+	- laser : upgrade damage and ammo
+8. enemies:
+	- enemies come in three types : machine gun tank , canon tank , laser tank.
+	- each type can be in three levels ( each level upgrades both armor and weapon )
+	- example : laser tank lvl 3 ,,, machine gun lvl 1 ... etc
+	- boss enemy : has all weapons and fires them randomly .. plus another weapon
+			missiles that explode on impact in AOE (1,2,3 tiles arround )
+			last boss ( 4th ) has shield :D:D
+	- every tank when destroyed drops a health pack that encrease 25% of life.
+
+-----------------------------
+
+You play as "James Pond" who is a major in the US army. you work on researches on new tank weapons in new found secret department "VSTD" very super tank department. you discover that your leader Colonel "Victor MacDew" is working on some secret research away from the government. when this information is exposed he escapes with the researches. you are assigned from the US military to hunt for him arround the world :
+0. usa : workshop
+1. brazil : forest
+2. peru : forest
+3. venzuela : forest
+4. cameroon : desert
+5. egypt/libia : desert
+6. yaman : cave
+7. india : cave
+8. japan : cave
+9. russia : ice
+10. north pole : ice
+11. argentina : forest servival
+12. nigeria : desert servival
+13. afghanistan : cave servival
+14. siberia : ice servival
+with every new level you discover new information againest the plot and discover facts about your and his history.
+--------------------
+enhancements:
+1. in quotes.xml a random is picked and displayed in LoadingScreen.

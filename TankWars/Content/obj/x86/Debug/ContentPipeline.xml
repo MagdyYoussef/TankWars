@@ -1,0 +1,383 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Screens\LoadingScreen\LoadingBackGround.png</Source>
+      <Name>Screens\LoadingScreen\LoadingBackGround</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\TankWars\bin\x86\Debug\Content\Screens\LoadingScreen\LoadingBackGround.xnb</Output>
+      <Time>2010-09-17T16:43:12.1204941+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\LoadingScreen\LoadingCover.png</Source>
+      <Name>Screens\LoadingScreen\LoadingCover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\TankWars\bin\x86\Debug\Content\Screens\LoadingScreen\LoadingCover.xnb</Output>
+      <Time>2010-09-17T16:47:29.0750941+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\Normal.spritefont</Source>
+      <Name>Fonts\Normal</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\TankWars\bin\x86\Debug\Content\Fonts\Normal.xnb</Output>
+      <Time>2010-09-18T01:10:23.0404076+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\ProfileScreen\ProfileBackGround.png</Source>
+      <Name>Screens\ProfileScreen\ProfileBackGround</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\TankWars\bin\x86\Debug\Content\Screens\ProfileScreen\ProfileBackGround.xnb</Output>
+      <Time>2010-09-18T21:23:40.5222162+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\ProfileScreen\Buttons\CreateNewHighlighted.png</Source>
+      <Name>Screens\ProfileScreen\Buttons\CreateNewHighlighted</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\TankWars\bin\x86\Debug\Content\Screens\ProfileScreen\Buttons\CreateNewHighlighted.xnb</Output>
+      <Time>2010-09-18T21:37:15.3064162+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\ProfileScreen\Buttons\CreateNewNormal.png</Source>
+      <Name>Screens\ProfileScreen\Buttons\CreateNewNormal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\TankWars\bin\x86\Debug\Content\Screens\ProfileScreen\Buttons\CreateNewNormal.xnb</Output>
+      <Time>2010-09-18T21:37:09.1756162+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\ProfileScreen\Buttons\LoadHighlighted.png</Source>
+      <Name>Screens\ProfileScreen\Buttons\LoadHighlighted</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\TankWars\bin\x86\Debug\Content\Screens\ProfileScreen\Buttons\LoadHighlighted.xnb</Output>
+      <Time>2010-09-18T21:36:55.7128162+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\ProfileScreen\Buttons\LoadNormal.png</Source>
+      <Name>Screens\ProfileScreen\Buttons\LoadNormal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\TankWars\bin\x86\Debug\Content\Screens\ProfileScreen\Buttons\LoadNormal.xnb</Output>
+      <Time>2010-09-18T21:36:49.1140162+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\ProfileScreen\Buttons\NextHighlighted.png</Source>
+      <Name>Screens\ProfileScreen\Buttons\NextHighlighted</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\TankWars\bin\x86\Debug\Content\Screens\ProfileScreen\Buttons\NextHighlighted.xnb</Output>
+      <Time>2010-09-18T21:36:02.0644162+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\ProfileScreen\Buttons\NextNormal.png</Source>
+      <Name>Screens\ProfileScreen\Buttons\NextNormal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\TankWars\bin\x86\Debug\Content\Screens\ProfileScreen\Buttons\NextNormal.xnb</Output>
+      <Time>2010-09-18T21:35:53.1724162+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\ProfileScreen\Buttons\PreviousHighlighted.png</Source>
+      <Name>Screens\ProfileScreen\Buttons\PreviousHighlighted</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\TankWars\bin\x86\Debug\Content\Screens\ProfileScreen\Buttons\PreviousHighlighted.xnb</Output>
+      <Time>2010-09-18T21:36:27.7576162+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\ProfileScreen\Buttons\PreviousNormal.png</Source>
+      <Name>Screens\ProfileScreen\Buttons\PreviousNormal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\TankWars\bin\x86\Debug\Content\Screens\ProfileScreen\Buttons\PreviousNormal.xnb</Output>
+      <Time>2010-09-18T21:36:20.5504162+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\ProfileScreen\Buttons\DeleteHighlighted.png</Source>
+      <Name>Screens\ProfileScreen\Buttons\DeleteHighlighted</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\TankWars\bin\x86\Debug\Content\Screens\ProfileScreen\Buttons\DeleteHighlighted.xnb</Output>
+      <Time>2010-09-18T21:59:44.2878162+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\ProfileScreen\Buttons\DeleteNormal.png</Source>
+      <Name>Screens\ProfileScreen\Buttons\DeleteNormal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\TankWars\bin\x86\Debug\Content\Screens\ProfileScreen\Buttons\DeleteNormal.xnb</Output>
+      <Time>2010-09-18T21:59:37.7046162+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\MainMenuScreen\Buttons\ChangeProfileHighlighted.png</Source>
+      <Name>Screens\MainMenuScreen\Buttons\ChangeProfileHighlighted</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\TankWars\bin\x86\Debug\Content\Screens\MainMenuScreen\Buttons\ChangeProfileHighlighted.xnb</Output>
+      <Time>2010-09-18T22:23:35.2900162+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\MainMenuScreen\Buttons\ChangeProfileNormal.png</Source>
+      <Name>Screens\MainMenuScreen\Buttons\ChangeProfileNormal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\TankWars\bin\x86\Debug\Content\Screens\MainMenuScreen\Buttons\ChangeProfileNormal.xnb</Output>
+      <Time>2010-09-18T22:23:35.2920162+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\MainMenuScreen\Buttons\CreditsHighlighted.png</Source>
+      <Name>Screens\MainMenuScreen\Buttons\CreditsHighlighted</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\TankWars\bin\x86\Debug\Content\Screens\MainMenuScreen\Buttons\CreditsHighlighted.xnb</Output>
+      <Time>2010-09-18T22:23:35.2950162+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\MainMenuScreen\Buttons\CreditsNormal.png</Source>
+      <Name>Screens\MainMenuScreen\Buttons\CreditsNormal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\TankWars\bin\x86\Debug\Content\Screens\MainMenuScreen\Buttons\CreditsNormal.xnb</Output>
+      <Time>2010-09-18T22:23:35.2980162+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\MainMenuScreen\Buttons\ExitHighlighted.png</Source>
+      <Name>Screens\MainMenuScreen\Buttons\ExitHighlighted</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\TankWars\bin\x86\Debug\Content\Screens\MainMenuScreen\Buttons\ExitHighlighted.xnb</Output>
+      <Time>2010-09-18T22:23:35.3000162+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\MainMenuScreen\Buttons\ExitNormal.png</Source>
+      <Name>Screens\MainMenuScreen\Buttons\ExitNormal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\TankWars\bin\x86\Debug\Content\Screens\MainMenuScreen\Buttons\ExitNormal.xnb</Output>
+      <Time>2010-09-18T22:23:35.3020162+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\MainMenuScreen\Buttons\PlayHighlighted.png</Source>
+      <Name>Screens\MainMenuScreen\Buttons\PlayHighlighted</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\TankWars\bin\x86\Debug\Content\Screens\MainMenuScreen\Buttons\PlayHighlighted.xnb</Output>
+      <Time>2010-09-18T22:23:35.3050162+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\MainMenuScreen\Buttons\PlayNormal.png</Source>
+      <Name>Screens\MainMenuScreen\Buttons\PlayNormal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\TankWars\bin\x86\Debug\Content\Screens\MainMenuScreen\Buttons\PlayNormal.xnb</Output>
+      <Time>2010-09-18T22:23:35.3070162+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\MainMenuScreen\MainMenuBackGround.png</Source>
+      <Name>Screens\MainMenuScreen\MainMenuBackGround</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\TankWars\bin\x86\Debug\Content\Screens\MainMenuScreen\MainMenuBackGround.xnb</Output>
+      <Time>2010-09-18T22:23:13.8500162+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\CreditsScreen\CreditsScreenBackGround.png</Source>
+      <Name>Screens\CreditsScreen\CreditsScreenBackGround</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\TankWars\bin\x86\Debug\Content\Screens\CreditsScreen\CreditsScreenBackGround.xnb</Output>
+      <Time>2010-09-18T22:52:52.5802162+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\WorldScreen\WorldScreenBackGround.png</Source>
+      <Name>Screens\WorldScreen\WorldScreenBackGround</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\TankWars\bin\x86\Debug\Content\Screens\WorldScreen\WorldScreenBackGround.xnb</Output>
+      <Time>2010-09-21T18:46:23.1376658+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\WorldScreen\Buttons\LevelCannotPlayHighlighted.png</Source>
+      <Name>Screens\WorldScreen\Buttons\LevelCannotPlayHighlighted</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\TankWars\bin\x86\Debug\Content\Screens\WorldScreen\Buttons\LevelCannotPlayHighlighted.xnb</Output>
+      <Time>2010-09-21T17:42:56.0686213+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\WorldScreen\Buttons\LevelCannotPlayNormal.png</Source>
+      <Name>Screens\WorldScreen\Buttons\LevelCannotPlayNormal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\TankWars\bin\x86\Debug\Content\Screens\WorldScreen\Buttons\LevelCannotPlayNormal.xnb</Output>
+      <Time>2010-09-21T17:43:11.4146213+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\WorldScreen\Buttons\LevelCanPlayHighlighted.png</Source>
+      <Name>Screens\WorldScreen\Buttons\LevelCanPlayHighlighted</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\TankWars\bin\x86\Debug\Content\Screens\WorldScreen\Buttons\LevelCanPlayHighlighted.xnb</Output>
+      <Time>2010-09-21T17:43:40.9436213+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\WorldScreen\Buttons\LevelCanPlayNormal.png</Source>
+      <Name>Screens\WorldScreen\Buttons\LevelCanPlayNormal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\TankWars\bin\x86\Debug\Content\Screens\WorldScreen\Buttons\LevelCanPlayNormal.xnb</Output>
+      <Time>2010-09-21T17:43:29.0456213+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\WorldScreen\Buttons\WorkShopHighlighted.png</Source>
+      <Name>Screens\WorldScreen\Buttons\WorkShopHighlighted</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\TankWars\bin\x86\Debug\Content\Screens\WorldScreen\Buttons\WorkShopHighlighted.xnb</Output>
+      <Time>2010-09-21T18:15:47.3132213+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\WorldScreen\Buttons\WorkShopNormal.png</Source>
+      <Name>Screens\WorldScreen\Buttons\WorkShopNormal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\TankWars\bin\x86\Debug\Content\Screens\WorldScreen\Buttons\WorkShopNormal.xnb</Output>
+      <Time>2010-09-21T18:15:34.1292213+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\WorkShopScreen\Buttons\BackHighlighted.png</Source>
+      <Name>Screens\WorkShopScreen\Buttons\BackHighlighted</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\TankWars\bin\x86\Debug\Content\Screens\WorkShopScreen\Buttons\BackHighlighted.xnb</Output>
+      <Time>2010-09-21T18:25:15.3992213+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\WorkShopScreen\Buttons\BackNormal.png</Source>
+      <Name>Screens\WorkShopScreen\Buttons\BackNormal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\TankWars\bin\x86\Debug\Content\Screens\WorkShopScreen\Buttons\BackNormal.xnb</Output>
+      <Time>2010-09-21T18:25:15.4052213+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\WorkShopScreen\WorkShopBackGround.png</Source>
+      <Name>Screens\WorkShopScreen\WorkShopBackGround</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\TankWars\bin\x86\Debug\Content\Screens\WorkShopScreen\WorkShopBackGround.xnb</Output>
+      <Time>2010-09-21T18:25:03.2002213+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\CreditsScreen\Buttons\BackNormal.png</Source>
+      <Name>Screens\CreditsScreen\Buttons\BackNormal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\TankWars\bin\x86\Debug\Content\Screens\CreditsScreen\Buttons\BackNormal.xnb</Output>
+      <Time>2010-09-21T18:42:06.7666658+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\CreditsScreen\Buttons\BackHighlighted.png</Source>
+      <Name>Screens\CreditsScreen\Buttons\BackHighlighted</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\TankWars\bin\x86\Debug\Content\Screens\CreditsScreen\Buttons\BackHighlighted.xnb</Output>
+      <Time>2010-09-21T18:42:06.7496658+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\WorldScreen\Buttons\BackNormal.png</Source>
+      <Name>Screens\WorldScreen\Buttons\BackNormal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\TankWars\bin\x86\Debug\Content\Screens\WorldScreen\Buttons\BackNormal.xnb</Output>
+      <Time>2010-09-21T18:44:20.8986658+03:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\WorldScreen\Buttons\BackHighlighted.png</Source>
+      <Name>Screens\WorldScreen\Buttons\BackHighlighted</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\TankWars\bin\x86\Debug\Content\Screens\WorldScreen\Buttons\BackHighlighted.xnb</Output>
+      <Time>2010-09-21T18:44:20.8916658+03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\TankWars\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\TankWars\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\TankWars\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\ZooM\Documents\Visual Studio 2008\Projects\TankWars\TankWars\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2009-05-14T11:13:52+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2009-05-14T11:13:52+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2009-05-14T11:13:52+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2009-05-14T11:13:52+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2009-05-14T11:13:52+03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-05-21T06:39:08.8648034+03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
